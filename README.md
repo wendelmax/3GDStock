@@ -130,6 +130,7 @@ Gerenciamento e controle de estoque para materiais de construção civil — aux
 
 
 
+
 ---
 
 ## Colaboração por integrante
@@ -139,8 +140,7 @@ Gerenciamento e controle de estoque para materiais de construção civil — aux
 | # | Integrante | Commits | Participação |
 |---|------------|---------|--------------|
 | 1 | Gabriel Lopes Gonçalves | 3 | 42.9% ████████░░░░░░░░░░░░ |
-| 2 | Diego Alexandre Matos da Silva | 2 | 28.6% █████░░░░░░░░░░░░░░░ |
-| 3 | giovannabertoldo81@gmail.com | 1 | 14.3% ██░░░░░░░░░░░░░░░░░░ |
-| 4 | Giovanna Bertoldo | 1 | 14.3% ██░░░░░░░░░░░░░░░░░░ |
+| 2 | Giovanna Bertoldo | 2 | 28.6% █████░░░░░░░░░░░░░░░ |
+| 3 | Diego Alexandre Matos da Silva | 2 | 28.6% █████░░░░░░░░░░░░░░░ |
 
 **Total de commits considerados:** 7
